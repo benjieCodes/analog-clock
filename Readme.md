@@ -1,3 +1,5 @@
-#Benjie's Analog Clock!
+# Benjie's Analog Clock!
 
-##created an analog clock using vanilla code
+## created an analog clock using vanilla code
+
+### download repo and open index.html to see!
